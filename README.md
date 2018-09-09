@@ -21,6 +21,8 @@ The repository contains set of Python scripts that I wrote to scrape approximate
 * Selenium
 * BeautifulSoup
 
+---
+
 ##### An overview on how I built the model
 
 The following explains the functionality of each of the notebooks:
