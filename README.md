@@ -23,7 +23,7 @@ The repository contains set of Python scripts that I wrote to scrape approximate
 
 ##### An overview on how I built the model
 
-1. Get main page urls for each district
+The following explains the functionality of each of the notebooks:
 
 **getpages.ipynb**
 
@@ -35,9 +35,7 @@ This notebook was used to extract the actual property features. Note that I was 
 
 **processing.ipynb**
 
-The notebook was used to preprocess some of the data extracted for each property. I have used the glob library to concat all the 
-  
-
+The notebook was used to preprocess some of the data extracted for each property. I have used the glob and pandas library to concat all the csv's. 
 
 
 
